@@ -1,2 +1,2 @@
-# ProyectoX
-ProyectoX
+# Informatica II
+Informatica II
